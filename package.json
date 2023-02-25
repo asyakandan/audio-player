@@ -1,0 +1,20 @@
+{
+  "name": "audio-player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asyakandan/audio-player.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asyakandan/audio-player/issues"
+  },
+  "homepage": "https://github.com/asyakandan/audio-player#readme"
+}
